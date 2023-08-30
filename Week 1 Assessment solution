@@ -1,0 +1,38 @@
+Question 1 - What does elastic mean for a cloud system tobe elastic!
+Answer - Option D
+The system can be add or remove resource based on need.
+
+Question 2- Cpu is provided as a service in 
+Answer - option c
+Iaas
+
+Question 3 - which of the following google storage services are suitable for NoSQL databases?
+Answer - Option B,C,D
+Cloud bigtable 
+cloud datastore 
+cloud spanner
+
+Quesion 4- Which of the following is an example of the zonal resource in google cloud architecture?
+Answer - Option B
+Compute Engine
+
+Question 5 "Google cloud Platform console is a command line interface to interact with GCP". Is this statement true or false.
+Answer - True
+
+Question 6 - Which of the following is are applicable for GCP project-id?
+Answer - Option A,C,D
+
+Question 7 - GCP provides a variety of service choices. Which of the following services is infrastructure as a service(IaaS)?
+Answer - Compute Engine
+
+Question 8 -Regions are independent geographic areas on the same continent. Which of the following is a regional service?
+Answer - Option A
+Cloud Datastore
+
+Question 9 - Which of the following are the part of Google Cloud SDK.
+Answer - Option B,C,D
+Gcloud, gsuitl, bq
+
+Question 10 - Which command line tool can be ised to manage cliud storage>
+Answer - Option D
+gsutil
