@@ -1,3 +1,6 @@
 # Google-Cloud-Computing-NPTEL-Cousre-Week-1-solution-
 
-Make sure to follow to get regular update.
+
+Here, I will update the answers for you to verify if your answer is correct.
+Make sure to follow up to get regular updates.
+
