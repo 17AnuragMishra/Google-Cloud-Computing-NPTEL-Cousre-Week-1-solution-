@@ -1,0 +1,40 @@
+Question 1 - Cloud SQl can scale upto ______ Processor core and ______ of storage capacity?
+Answer  - 64, 10TB
+
+Question 2 - Which of the following requirements is the best choice for coldline storage?
+Answer - Data Archival
+
+Question 3 - Which of the following filesystem is used by the google bigtable?
+Answer - Colossus
+
+Qustion 4 - Choose the correct mapping 
+  I.    Cloud storage.      A. Realtional Database
+  II.   Cloud Spanner.      B. Non-Realtional database
+  III.  Bigquery            C. data warehouse
+  IV.   Cloud Bigtable      D. Object datastore
+
+Answer - I-D, II-A, III-C, IV-B
+
+Question 5 - How many minimum number of nodes are required for cloud spanner instance?
+Answer - 3 nodes
+
+Question 6 - Which of the following is/are some of the best use cases of cloud bigtable?
+Answer - Map reduces operations.
+         Real-time analytics.
+
+Question 7 - Which of the following properties are applicable for cloud datastore?
+Answer - Schemaless 
+         Serverless
+
+Question 8 - Which of the following is NOT a type of NoSQL database?
+Answer - Relational databases.
+
+Question 9 - Consider the following statement:"Cloud spanner allows synchronous replication which
+              enables the data to be updated to all zones or regions after a negligible delay"
+Answer - True statement.
+
+Question 10 - Cloud storage are generally used for:
+Answer - Maintaining data for analytics and general compute 
+         Content delivery
+         Backup and archival
+  
